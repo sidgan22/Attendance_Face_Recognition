@@ -77,6 +77,10 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+#data
+train/
+trainset/
+
 # IPython
 profile_default/
 ipython_config.py
