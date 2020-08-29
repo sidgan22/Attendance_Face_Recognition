@@ -80,6 +80,7 @@ target/
 #data
 train/
 trainset/
+valid/
 
 # IPython
 profile_default/
