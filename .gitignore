@@ -79,7 +79,6 @@ target/
 
 #data
 train/
-trainset/
 valid/
 
 # IPython
